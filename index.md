@@ -6,7 +6,7 @@ description: Sitio web de páginas estáticas para el laboratorio del curso de D
 ---
 
 **Esta es mi página personal**  
-[![Perfil LinkedIn](assets/images/botonLinkedInSmall.jpg)](https://www.linkedin.com/in/jose-manuel-escalante-marrero-2746b7268/)  
+[![Perfil LinkedIn](assets/images/botonLinkedInPequeño.jpg)](https://www.linkedin.com/in/jose-manuel-escalante-marrero-2746b7268/)  
 
 Soy un estudiante del Instituto Tecnológico de Costa Rica
 
