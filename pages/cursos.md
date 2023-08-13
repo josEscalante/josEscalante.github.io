@@ -8,10 +8,10 @@ description: Los cursos relevantes a ATI que he llevado o me interesa llevar
 ## Cursos he he llevado
 
 ### Virtuales
-- 
+- N/A
 
 ### Presenciales
-- 
+- N/A
 
 ## Temas de cursos que me interesa llevar
 - Rust
@@ -19,3 +19,4 @@ description: Los cursos relevantes a ATI que he llevado o me interesa llevar
 - Analítica de datos
 - Diseño UX/UI
 - Evaluación de proyectos
+- Gestión de inversiones
